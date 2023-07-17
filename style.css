@@ -1,0 +1,59 @@
+#b1
+{
+    background-image:url(./assesets/images1.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#b2
+{
+    background-image:url(./assesets/image2.jpeg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+#b3
+{
+    background-image:url(./assesets/image\ 3.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#b4
+{
+    background-image:url(./assesets/image\ 4.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.cont1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 13%;
+    
+}
+
+.cont2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 8%;
+    
+}
+button{
+
+    width: 10em;
+    height: 5em;
+    background-color: rgb(52, 8, 250);
+    color: white;
+    border-radius: 3px;
+}
+
+input{
+    width: 20em;
+    height: 5em;
+    background-color: aliceblue;
+}
